@@ -1,4 +1,4 @@
- Insurance Fraud EDA
+## Insurance Fraud EDA
 
 #Project Overview
 This project performs **Exploratory Data Analysis (EDA)** on an insurance claim fraud dataset sourced from Kaggle.  
